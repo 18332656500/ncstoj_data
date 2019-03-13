@@ -1,0 +1,9 @@
+create shizuo 0 lu
+create lyf 0 luoyuf
+create p1 1 shizuo
+open p1
+create p2 1 p1
+open p2
+create p1 1 lyf
+open p2
+exit

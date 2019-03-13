@@ -1,0 +1,7 @@
+[1] move 1 # from A to C 
+[2] move 2 # from A to B 
+[3] move 1 # from C to B 
+[4] move 3 # from A to C 
+[5] move 1 # from B to A 
+[6] move 2 # from B to C 
+[7] move 1 # from A to C
